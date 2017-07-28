@@ -1,7 +1,7 @@
 # Learning Flask
 
-This is a sample app based on flask to be hosted on heroku.
-See the [live app here](https://shielded-mountain-53374.herokuapp.com)
+Used geocoder library and leaflet.js
+See the [live app here](http://tranquil-ridge-5048.herokuapp.com/)
 
 ## Deploying the app
 
